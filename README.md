@@ -3,7 +3,7 @@
 ### UNIT-I Electrostatics & UNIT-II Current Electricity (16 MARKS)
 * **Chapter–1: Electric Charges and Fields**
 * Chapter–2: Electrostatic Potential and Capacitance
-* Chapter–3: Current Electricity []
+* Chapter–3: Current Electricity
 
 ### UNIT-III Magnetic Effects of Current and Magnetism & UNIT-IV Electromagnetic Induction and Alternating Currents (17 MARKS)
 * Chapter–4: Moving Charges and Magnetism
