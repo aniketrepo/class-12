@@ -1,4 +1,4 @@
-# PHYSICS (70)
+# [PHYSICS (70)](https://github.com/aniketrepo/class-12/blob/main/Physics_SrSec_2023-24.pdf)
 
 ### UNIT-I Electrostatics & UNIT-II Current Electricity (16 MARKS)
   * ***Chapter–1: Electric Charges and Fields***
@@ -24,7 +24,7 @@
 ### UNIT-IX Electronic Devices (07 MARKS)
   * Chapter–14: Semiconductor Electronics: Materials, Devices and Simple Circuits
 
-# CHEMISTRY (70)
+# [CHEMISTRY (70)](https://github.com/aniketrepo/class-12/blob/main/Chemistry_SrSec_2023-24.pdf)
   * Chapter-1: Solutions (07 MARKS)
   * Chapter-2: Electrochemistry (09 MARKS)
   * Chapter-3: Chemical Kinetics (07 MARKS)
@@ -36,7 +36,7 @@
   * Chapter-9: Amines (06 MARKS)
   * Chapter-10: Biomolecules (07 MARKS)
 
-# MATHEMATICS (80)
+# [MATHEMATICS (80)](https://github.com/aniketrepo/class-12/blob/main/Maths_SrSec_2023-24.pdf)
 
 ### UNIT-I Relations and Functions (08 MARKS)
   * ***Chapter 1: Relations and Functions***
