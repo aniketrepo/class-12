@@ -25,7 +25,7 @@
   * Chapter–14: Semiconductor Electronics: Materials, Devices and Simple Circuits
 
 # [CHEMISTRY (70)](https://github.com/aniketrepo/class-12/blob/main/Chemistry_SrSec_2023-24.pdf)
-  * Chapter-1: Solutions (07 MARKS)
+  * ***Chapter-1: Solutions (07 MARKS)***
   * Chapter-2: Electrochemistry (09 MARKS)
   * Chapter-3: Chemical Kinetics (07 MARKS)
   * Chapter-4: d -and f -Block Elements (07 MARKS)
